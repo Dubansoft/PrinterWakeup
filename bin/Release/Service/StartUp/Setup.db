@@ -1,0 +1,4 @@
+PrintServerIp=172.16.23.249
+PrintServerName=LTSONBMBW9OVELA
+DefaultPrinterQueueName=QUIMICOS
+PrinterWakeUpInterval=55

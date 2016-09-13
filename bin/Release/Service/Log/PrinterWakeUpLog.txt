@@ -1,0 +1,159 @@
+28/02/2016 06:24 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) -cac-pc-2070 no está disponible en la red
+
+
+28/02/2016 06:24 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-0715 no está disponible en la red
+
+
+28/02/2016 06:24 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1689 no está disponible en la red
+
+
+28/02/2016 06:24 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1790 no está disponible en la red
+
+
+28/02/2016 06:24 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) -cac-pc-2070 no está disponible en la red
+
+
+28/02/2016 06:24 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-0715 no está disponible en la red
+
+
+28/02/2016 06:24 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1689 no está disponible en la red
+
+
+28/02/2016 06:24 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1790 no está disponible en la red
+
+
+28/02/2016 06:24 a.m. :: Form1 :: <no control set> :: Se produjo una excepción al purgar la cola. Error de Win32: Acceso denegado.
+
+		Exception type is System.Exception
+		Source: System.Printing
+		StackTrace:    en System.Printing.PrintQueue.Purge()
+   en PrinterWakeUp.Form1.timerPrinterWakeUp_Tick(Object sender, EventArgs e) en C:\Users\SONDA2\Desktop\InkAlert\PrinterWakeUp\Form1.cs:línea 191
+		Type: System.Printing.PrintQueueException
+
+
+28/02/2016 06:25 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) -cac-pc-2070 no está disponible en la red
+
+
+28/02/2016 06:25 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-0715 no está disponible en la red
+
+
+28/02/2016 06:25 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1689 no está disponible en la red
+
+
+28/02/2016 06:25 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1790 no está disponible en la red
+
+
+28/02/2016 06:25 a.m. :: Form1 :: <no control set> :: Se produjo una excepción al purgar la cola. Error de Win32: Acceso denegado.
+
+		Exception type is System.Exception
+		Source: System.Printing
+		StackTrace:    en System.Printing.PrintQueue.Purge()
+   en PrinterWakeUp.Form1.timerPrinterWakeUp_Tick(Object sender, EventArgs e) en C:\Users\SONDA2\Desktop\InkAlert\PrinterWakeUp\Form1.cs:línea 191
+		Type: System.Printing.PrintQueueException
+
+
+28/02/2016 06:26 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) -cac-pc-2070 no está disponible en la red
+
+
+28/02/2016 06:26 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-0715 no está disponible en la red
+
+
+28/02/2016 06:26 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1689 no está disponible en la red
+
+
+28/02/2016 06:26 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1790 no está disponible en la red
+
+
+28/02/2016 06:26 a.m. :: Form1 :: <no control set> :: Se produjo una excepción al purgar la cola. Error de Win32: Acceso denegado.
+
+		Exception type is System.Exception
+		Source: System.Printing
+		StackTrace:    en System.Printing.PrintQueue.Purge()
+   en PrinterWakeUp.Form1.timerPrinterWakeUp_Tick(Object sender, EventArgs e) en C:\Users\SONDA2\Desktop\InkAlert\PrinterWakeUp\Form1.cs:línea 191
+		Type: System.Printing.PrintQueueException
+
+
+28/02/2016 06:27 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) -cac-pc-2070 no está disponible en la red
+
+
+28/02/2016 06:27 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-0715 no está disponible en la red
+
+
+28/02/2016 06:27 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1689 no está disponible en la red
+
+
+28/02/2016 06:27 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1790 no está disponible en la red
+
+
+28/02/2016 06:27 a.m. :: Form1 :: <no control set> :: Se produjo una excepción al purgar la cola. Error de Win32: Acceso denegado.
+
+		Exception type is System.Exception
+		Source: System.Printing
+		StackTrace:    en System.Printing.PrintQueue.Purge()
+   en PrinterWakeUp.Form1.timerPrinterWakeUp_Tick(Object sender, EventArgs e) en C:\Users\SONDA2\Desktop\InkAlert\PrinterWakeUp\Form1.cs:línea 191
+		Type: System.Printing.PrintQueueException
+
+
+28/02/2016 06:28 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) -cac-pc-2070 no está disponible en la red
+
+
+28/02/2016 06:28 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-0715 no está disponible en la red
+
+
+28/02/2016 06:28 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1689 no está disponible en la red
+
+
+28/02/2016 06:28 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1790 no está disponible en la red
+
+
+28/02/2016 06:28 a.m. :: Form1 :: <no control set> :: Se produjo una excepción al purgar la cola. Error de Win32: Acceso denegado.
+
+		Exception type is System.Exception
+		Source: System.Printing
+		StackTrace:    en System.Printing.PrintQueue.Purge()
+   en PrinterWakeUp.Form1.timerPrinterWakeUp_Tick(Object sender, EventArgs e) en C:\Users\SONDA2\Desktop\InkAlert\PrinterWakeUp\Form1.cs:línea 191
+		Type: System.Printing.PrintQueueException
+
+
+28/02/2016 06:29 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) -cac-pc-2070 no está disponible en la red
+
+
+28/02/2016 06:29 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-0715 no está disponible en la red
+
+
+28/02/2016 06:29 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1689 no está disponible en la red
+
+
+28/02/2016 06:29 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1790 no está disponible en la red
+
+
+28/02/2016 06:29 a.m. :: Form1 :: <no control set> :: Se produjo una excepción al purgar la cola. Error de Win32: Acceso denegado.
+
+		Exception type is System.Exception
+		Source: System.Printing
+		StackTrace:    en System.Printing.PrintQueue.Purge()
+   en PrinterWakeUp.Form1.timerPrinterWakeUp_Tick(Object sender, EventArgs e) en C:\Users\SONDA2\Desktop\InkAlert\PrinterWakeUp\Form1.cs:línea 191
+		Type: System.Printing.PrintQueueException
+
+
+28/02/2016 06:30 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) -cac-pc-2070 no está disponible en la red
+
+
+28/02/2016 06:30 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-0715 no está disponible en la red
+
+
+28/02/2016 06:30 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1689 no está disponible en la red
+
+
+28/02/2016 06:30 a.m. :: Form1 :: <no control set> :: El servidor de impresión (PC) Pc-1790 no está disponible en la red
+
+
+28/02/2016 06:30 a.m. :: Form1 :: <no control set> :: Se produjo una excepción al purgar la cola. Error de Win32: Acceso denegado.
+
+		Exception type is System.Exception
+		Source: System.Printing
+		StackTrace:    en System.Printing.PrintQueue.Purge()
+   en PrinterWakeUp.Form1.timerPrinterWakeUp_Tick(Object sender, EventArgs e) en C:\Users\SONDA2\Desktop\InkAlert\PrinterWakeUp\Form1.cs:línea 191
+		Type: System.Printing.PrintQueueException
+
+

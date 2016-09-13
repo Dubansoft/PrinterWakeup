@@ -1,0 +1,8 @@
+C:\Users\SONDA2\Desktop\InkAlert\PrinterWakeUp\bin\Release\PrinterWakeUp.exe
+C:\Users\SONDA2\Desktop\InkAlert\PrinterWakeUp\bin\Release\PrinterWakeUp.pdb
+C:\Users\SONDA2\Desktop\InkAlert\PrinterWakeUp\obj\Release\PrinterWakeUp.csprojResolveAssemblyReference.cache
+C:\Users\SONDA2\Desktop\InkAlert\PrinterWakeUp\obj\Release\PrinterWakeUp.Form1.resources
+C:\Users\SONDA2\Desktop\InkAlert\PrinterWakeUp\obj\Release\PrinterWakeUp.Properties.Resources.resources
+C:\Users\SONDA2\Desktop\InkAlert\PrinterWakeUp\obj\Release\PrinterWakeUp.csproj.GenerateResource.Cache
+C:\Users\SONDA2\Desktop\InkAlert\PrinterWakeUp\obj\Release\PrinterWakeUp.exe
+C:\Users\SONDA2\Desktop\InkAlert\PrinterWakeUp\obj\Release\PrinterWakeUp.pdb
